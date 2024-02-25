@@ -33,4 +33,4 @@ function CustomRegistrationForm() {
   );
 }
 
-export default App; 
+export default CustomRegistrationForm; 
